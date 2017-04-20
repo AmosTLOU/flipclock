@@ -21,7 +21,7 @@
     <ClCompile Include="..\main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\getarg\getarg.c">
+    <ClCompile Include="..\getarg.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

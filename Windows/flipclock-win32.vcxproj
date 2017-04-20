@@ -105,7 +105,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\flipclock.c" />
-    <ClCompile Include="..\getarg\getarg.c" />
+    <ClCompile Include="..\getarg.c" />
     <ClCompile Include="..\main.c" />
   </ItemGroup>
   <ItemGroup>
