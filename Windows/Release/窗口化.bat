@@ -1,1 +1,1 @@
-.\flipclock-win32.exe -w
+.\flipclock-win32.exe /w
